@@ -2,7 +2,7 @@ version: 0.1
 phases:
   install:
     commands:
-      - aws cloudformation package --template-file ./api_swagger_example/template.yaml --s3-bucket lambda-deploy-oregon --output-template ./api_swagger_example/output.yaml
+      - aws cloudformation package --template-file ./api_swagger_example/template.yaml --s3-bucket lambda-deploy-oregon --output-template output.yaml
 artifacts:
   files: 
     - output.yaml
