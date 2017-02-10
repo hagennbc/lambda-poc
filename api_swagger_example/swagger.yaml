@@ -1,8 +1,8 @@
 ---
 swagger: 2.0
-basePath: /dev
+basePath: /prod
 info:
-  title: LambdaHellowWorldDev
+  title: LambdaHellowWorldProd
 schemes:
 - https
 paths:
