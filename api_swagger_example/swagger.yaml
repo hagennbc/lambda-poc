@@ -1,8 +1,8 @@
 ---
 swagger: 2.0
-basePath: /prod
+basePath: /stage
 info:
-  title: LambdaHelloWorldProd
+  title: LambdaHelloWorldStage
 schemes:
 - https
 paths:
