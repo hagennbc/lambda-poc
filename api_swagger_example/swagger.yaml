@@ -2,7 +2,7 @@
 swagger: 2.0
 basePath: /prod
 info:
-  title: LambdaHellowWorldProd
+  title: LambdaHelloWorldProd
 schemes:
 - https
 paths:
